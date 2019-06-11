@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/unalcol-master/defs/defs.iml" filepath="$PROJECT_DIR$/unalcol-master/defs/defs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unalcol-master/demo/demo.iml" filepath="$PROJECT_DIR$/unalcol-master/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unalcol-master/evolution/evolution.iml" filepath="$PROJECT_DIR$/unalcol-master/evolution/evolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unalcol-master/math/math.iml" filepath="$PROJECT_DIR$/unalcol-master/math/math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mohaea/mohaea.iml" filepath="$PROJECT_DIR$/mohaea/mohaea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nshaea/nshaea.iml" filepath="$PROJECT_DIR$/nshaea/nshaea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unalcol-master/optimization/optimization.iml" filepath="$PROJECT_DIR$/unalcol-master/optimization/optimization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unalcol-master/primitives/primitives.iml" filepath="$PROJECT_DIR$/unalcol-master/primitives/primitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unalcol-master/random/random.iml" filepath="$PROJECT_DIR$/unalcol-master/random/random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unalcol-master/services/services.iml" filepath="$PROJECT_DIR$/unalcol-master/services/services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smoea/smoea.iml" filepath="$PROJECT_DIR$/smoea/smoea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unalcol-master/types/types.iml" filepath="$PROJECT_DIR$/unalcol-master/types/types.iml" />
+    </modules>
+  </component>
+</project>
